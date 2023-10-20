@@ -1,5 +1,5 @@
 👋 Hey, I'm JEM (Jackson Eroe Mills)
-* 🫡 On the hunt for exciting projects! Expertise in React, TypeScript, and CSS
+* 🫡 Looking for group! Frontend/Fullstack with expertise in React, TypeScript, and CSS
 * 🦾 Eager to co-create transformative web experiences and AI-powered solutions
 * 📫 Let's connect! DM me on Twitter: @jacksonmills
 
