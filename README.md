@@ -1,7 +1,7 @@
-👋 Hi, I'm Jem (Jackson Eroe Mills)
-* 💞️ I’m passionate about collaborating on React, TypeScript, and CSS-based projects
-* 🚀 Love creating delightful user experiences and pushing the boundaries of web development
-* 📫 Connect with me on Twitter: @jacksonmills
+👋 Hey, I'm JEM (Jackson Eroe Mills)
+* 🫡 On the hunt for exciting projects! Expertise in React, TypeScript, and CSS
+* 🦾 Eager to co-create transformative web experiences and AI-powered solutions
+* 📫 Let's connect! DM me on Twitter: @jacksonmills
 
 <!---
 Jacksonmills/Jacksonmills is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
