@@ -1,7 +1,4 @@
-👋 Hey, I'm JEM (Jackson Eroe Mills)
-* 🫡 Looking for group! Frontend/Fullstack with expertise in React, TypeScript, and CSS
-* 🦾 Eager to co-create transformative web experiences and AI-powered solutions
-* 📫 Let's connect! DM me on Twitter: @jacksonmills
+
 
 <!---
 Jacksonmills/Jacksonmills is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
